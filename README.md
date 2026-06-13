@@ -101,8 +101,6 @@ Dieses **64 MB Absturz-Log** von September 2016 ist ein Monster. Kodi ist wahrsc
 ### OpenELEC → LibreELEC: Die große Spaltung
 Im März 2016 — nur wenige Wochen nachdem diese SD-Karte erstellt wurde — hat sich das OpenELEC-Team zerstritten. Die Entwickler, die ein offeneres Projekt wollten, sind gegangen und haben **LibreELEC** gegründet. Diese SD-Karte stammt aus den *letzten Tagen* des ursprünglichen OpenELEC, bevor es von LibreELEC abgelöst wurde.
 
-Atzes aktuelles TV-Setup (Stand 2026) läuft auf LibreELEC 12 mit einem Raspberry Pi 5 — dem direkten Nachfahren von dem, was hier auf der Karte ist. Wie wenn man Opas erstes Auto in der Scheune findet — und selbst den Urenkel davon fährt.
-
 ### 32-Bit's letzter Auftritt
 Kodi 15.2 „Isengard" war die letzte Version für 32-Bit-Prozessoren. Jedes Kodi danach (16 „Jarvis" aufwärts) lief nur noch auf 64-Bit. Diese Karte ist eine Momentaufnahme vom Ende der 32-Bit-Ära.
 
