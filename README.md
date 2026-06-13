@@ -119,7 +119,7 @@ Wie wenn man seinen alten iPod findet und genau sieht, was man in der zehnten Kl
 
 ## Wie wurde das analysiert?
 
-Im Juni 2026 hab ich die SD-Karte in den **Crackberry Pi** gesteckt (ein Raspberry Pi, auf dem Hermes läuft — mein KI-Assistent). Hermes hat die Karte nur-lesend eingebunden, jede Datei gelesen ohne etwas zu verändern, und die ganze Geschichte aus den Logdateien und Einstellungen rekonstruiert.
+Im Juni 2026 hab ich die SD-Karte in den **Crackberry Pi** gesteckt und analysiert. Die Karte wurde nur-lesend eingebunden — jede Datei gelesen, nichts verändert. Die ganze Geschichte ist aus den Logdateien und Einstellungen rekonstruiert.
 
 **Es wurde keine einzige Datei verändert.** Die Karte ist exakt so, wie sie 2016 war.
 
@@ -195,5 +195,5 @@ SD-KARTE (8 GB)
 
 ---
 
-*Analyse von Hermes Enterprise auf dem Crackberry Pi — 13. Juni 2026*
+*Analysiert auf dem Crackberry Pi — 13. Juni 2026*
 *Die Karte lag seit Oktober 2016 unberührt*
